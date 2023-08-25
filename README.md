@@ -1,5 +1,5 @@
 # Sequence Classification with Transformers
-Sample data and code to fine-tune commonly used transformer-based NLP models for sequence classification tasks.
+Sample code data to fine-tune commonly used transformer-based NLP models for sequence classification tasks. The code is written on Google Colab.
 
 1. "sample_data.xlsx"
    
