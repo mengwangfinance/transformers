@@ -1,9 +1,7 @@
 # Sequence Classification with Transformers
 Sample code and data to fine-tune commonly used transformer-based NLP models for sequence classification tasks. The code and data constitute essential elements of the approach I adopt for detecting self-attribution bias among mutual fund managers as described in Wang (2023).
-
 Note: The code is written on Google Colab. 
 
-Metadata:
 1. "sample_data.xlsx":
    this file contains a sample of well-labeled sentences indicating whether the sentence is about a performance contributor or a performance detractor.
 2. "sequence_classification.ipynb":
